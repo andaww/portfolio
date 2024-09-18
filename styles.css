@@ -1,0 +1,23 @@
+*{
+    color: white;
+    background-color: black;
+    font-family: 'Abyssinica SIL', serif;
+}
+
+h1{
+    margin-left: 4.5rem;
+}
+
+h2{
+    margin-inline: 5rem;
+}
+
+.projectlink {
+    margin-inline: 6rem;
+}
+
+p{
+    text-align: left;
+    margin-inline: 5rem;
+}
+
